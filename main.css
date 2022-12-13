@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(226, 226, 226);
+    font-family: 'Noto Sans JP', sans-serif;
+    margin:0;
+
+}
+
+#main_page{
+
+    background-color: rgb(255, 255, 255);
+    width:325px;
+    height: 466px;
+    padding-top: 25px;
+    margin: 30px auto;
+    box-shadow: 1px 1px 5px rgb(151, 151, 151);
+    border-radius: 2px;
+}
+
+#main_page h2{
+    
+    margin: 0;
+    padding: 0 35px 0 35px;
+}
+
+#main_page p{
+margin-top: 8px;
+margin-bottom: 25px;
+padding: 0 35px 0 35px;
+
+}
+
+#Amount{
+    text-align: center;
+}
+
+
+#Amount h1{
+    background-color: rgb(106, 227, 248);
+    padding: 0 35px;
+    margin: 0;
+}
+
+#Amount p{
+
+    margin-bottom: 30px;
+}
+
+#List ul{
+    margin: 0;
+    list-style: circle;
+    padding-left: 65px;
+}
+
+#List ul li{
+
+    margin: 0 0 10px 0;
+}
+
+#button h4{
+    color: rgb(66, 222, 250);
+    text-align: center;
+    margin: 21px 40px 25px 40px;
+    padding: 12px 70px;
+    border: 2px solid rgb(197, 197, 197);
+}
